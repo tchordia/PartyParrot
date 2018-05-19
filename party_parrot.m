@@ -36,8 +36,3 @@ end
 imwrite(pp, cm, output_gif, 'DelayTime', .05, 'LoopCount',Inf);
 
 
-
-
-
-
-
